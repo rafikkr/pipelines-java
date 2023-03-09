@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kadirafik/FirstProjectAzure/_apis/build/status/rafikkr.pipelines-java?branchName=main)](https://dev.azure.com/kadirafik/FirstProjectAzure/_build/latest?definitionId=5&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
